@@ -27,7 +27,7 @@
                 'required' => 'No HP Harus diisi',
                 'min_length' => 'No HP terlalu pendek'
             ]
-        
+       
         );
 
         if ($this->form_validation->run() != true) {
