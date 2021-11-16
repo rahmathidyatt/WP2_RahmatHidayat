@@ -42,15 +42,15 @@
                 'harga' => $this->input->post('harga'),
             ];
 
-            if ($this->input->post('merk') == 'Converse') {
+            if ($this->input->post('merk') == 'Nike') {
                 $data['harga'] = 375000;
             } elseif ($this->input->post('merk') == 'Adidas') {
                 $data['harga'] = 300000;
             } elseif ($this->input->post('merk') == 'Kickers') {
                 $data['harga'] = 250000;
-            } elseif ($this->input->post('merk') == 'Vans') {
+            } elseif ($this->input->post('merk') == 'Eiger') {
                 $data['harga'] = 275000;
-            } elseif ($this->input->post('merk') == 'Reebok') {
+            } elseif ($this->input->post('merk') == 'Bucherri') {
                 $data['harga'] = 400000;
             }
 

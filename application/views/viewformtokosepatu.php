@@ -37,11 +37,11 @@
                     <td>
                         <select name="merk" id="merk">
                             <option value="">--PILIH MERK SEPATU--</option>
-                            <option value="Converse">CONVERSE</option>
+                            <option value="Nike">NIKE</option>
                             <option value="Adidas">ADIDAS</option>
                             <option value="Kickers">KICKERS</option>
-                            <option value="Vans">VANS</option>
-                            <option value="Reebok">REEBOK</option>
+                            <option value="Vans">EIGER</option>
+                            <option value="Reebok">BUCHERRI</option>
                         </select>
                     </td>
                 </tr>
